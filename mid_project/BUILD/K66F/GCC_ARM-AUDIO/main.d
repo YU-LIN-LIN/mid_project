@@ -238,8 +238,7 @@ BUILD/K66F/GCC_ARM-AUDIO/main.o: main.cpp \
  /home/ee2405/ee2405/mbed-os/platform/mbed_stats.h \
  /home/ee2405/ee2405/mbed-os/platform/Callback.h \
  /home/ee2405/ee2405/mbed-os/platform/FunctionPointer.h \
- /home/ee2405/ee2405/mbed-os/platform/ScopedLock.h \
- 4DGL-uLCD-SE/uLCD_4DGL.h DA7212/DA7212.h \
+ /home/ee2405/ee2405/mbed-os/platform/ScopedLock.h DA7212/DA7212.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_K66F/TARGET_FRDM/fsl_clock_config.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_K66F/drivers/fsl_common.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_K66F/drivers/fsl_dmamux.h \
